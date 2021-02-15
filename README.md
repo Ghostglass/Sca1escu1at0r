@@ -1,6 +1,5 @@
 # Sca1escu1at0r
 Created with CodeSandbox
-# Sca1escu1at0r:
 
 # https://lwpft.csb.app/
 
